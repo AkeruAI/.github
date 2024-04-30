@@ -14,7 +14,7 @@ At its core, Akeru aims to be deeply rooted in the fields of artificial intellig
 - **Community-Focused**: Akeru is committed to supporting and growing a vibrant community of developers and technologists.
 
 ## Key Projects
-- **[Akeru.ai](link-to-akeru.ai-repo)**: An open-source AI platform that runs on the cutting-edge Bittensor network to deliver decentralized AI services.
+- **[Akeru.ai](https://github.com/AkeruAI/akeru/tree/main)**: An open-source AI platform that runs on the cutting-edge Bittensor network to deliver decentralized AI services.
 
 ## Roadmap
 
@@ -42,10 +42,10 @@ Join our vibrant community to get involved in discussions, share your ideas, and
 - **[Discord](#)**
 
 ## Contact Us
-For further inquiries, partnerships, or press information, please contact us at [contact@akeru.org](mailto:guibibeau@gmail.com).
+For further inquiries, partnerships, or press information, please contact us [here](mailto:guibibeau@gmail.com).
 
 ## License
 All Akeru projects are released under the [MIT License](https://opensource.org/license/MIT). This ensures that our software remains free and usable for all, promoting innovation and collaboration.
 
 ## How to Reach Us
-For real-time discussions and support, connect with us on [Discord](#). For professional inquiries, please use our official contact email: [contact@akeru.org](mailto:guibibeau@gmail.com).
+For real-time discussions and support, connect with us on [Discord](#). For professional inquiries, please use our official contact email: [here](mailto:guibibeau@gmail.com).
