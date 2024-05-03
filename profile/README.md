@@ -1,6 +1,21 @@
-![Akeru Logo](https://res.cloudinary.com/resourcefulmind-inc/image/upload/v1714496867/v1_v8gjmv.png)
+<p align="center">
+  <img src="https://res.cloudinary.com/resourcefulmind-inc/image/upload/v1714496867/v1_v8gjmv.png" alt="Akeru Logo" height="420" width="330" />
+</p>
 
 # Welcome to Akeru
+
+## Outline
+
+- [Our Mission](#our-mission)
+- [About Akeru](#about-akeru)
+- [Why Akeru?](#why-akeru)
+- [Key Projects](#key-projects)
+- [Roadmap](#roadmap)
+- [Contributing to Akeru](#contributing-to-akeru)
+- [Our Community](#our-community)
+- [Contact Us](#contact-us)
+- [License](#license)
+- [How to Reach Us](#how-to-reach-us)
 
 ## Our Mission
 At Akeru, we are committed to enhancing AI technology by making it more accessible, transparent, and decentralized. We strive to empower developers across the globe by providing open-source tools that enable innovation and drive progress.
