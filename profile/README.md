@@ -1,19 +1,43 @@
-![Akeru Logo](https://res.cloudinary.com/resourcefulmind-inc/image/upload/v1714496867/v1_v8gjmv.png)
+<p align="center">
+  <img
+    src="https://res.cloudinary.com/resourcefulmind-inc/image/upload/v1714496867/v1_v8gjmv.png"
+    alt="Akeru Logo"
+    height="420"
+    width="330"
+  />
+</p>
 
 # Welcome to Akeru
 
+## Outline
+
+- [Our Mission](#our-mission)
+- [About Akeru](#about-akeru)
+- [Why Akeru?](#why-akeru)
+- [Key Projects](#key-projects)
+- [Roadmap](#roadmap)
+- [Contributing to Akeru](#contributing-to-akeru)
+- [Our Community](#our-community)
+- [Contact Us](#contact-us)
+- [License](#license)
+- [How to Reach Us](#how-to-reach-us)
+
 ## Our Mission
+
 At Akeru, we are committed to enhancing AI technology by making it more accessible, transparent, and decentralized. We strive to empower developers across the globe by providing open-source tools that enable innovation and drive progress.
 
 ## About Akeru
+
 At its core, Akeru aims to be deeply rooted in the fields of artificial intelligence and decentralized systems. Formed by a passionate collective of AI enthusiasts and blockchain advocates, our mission is clear: to harness the robust capabilities of the Akeru AI edge network, underpinned by a Bittensor Subnet, to provide transparent, secure, and reliable AI solutions. We aim to inspire and empower communities by making cutting-edge technology accessible and dependable, driving progress and fostering hope for a smarter, more connected world.
 
 ## Why Akeru?
+
 - **Open Source**: All our projects are open-source, inviting collaboration and fostering a community of innovation.
 - **Decentralization**: We leverage decentralized technologies to ensure that our projects are secure, transparent, and available to everyone.
 - **Community-Focused**: Akeru is committed to supporting and growing a vibrant community of developers and technologists.
 
 ## Key Projects
+
 - **[Akeru.ai](https://github.com/AkeruAI/akeru/tree/main)**: An open-source AI platform that runs on the cutting-edge Bittensor network to deliver decentralized AI services.
 
 ## Roadmap
@@ -37,6 +61,7 @@ We thrive on community contributions! Whether you're a coder, a designer, or a t
 - **Feedback**: Your suggestions drive our growth. Don't hesitate to reach out with ideas.
 
 ## Our Community
+
 Join our vibrant community to get involved in discussions, share your ideas, and collaborate with others.
 
 - **[Discord](#)**
