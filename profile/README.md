@@ -1,22 +1,23 @@
 <p align="center">
   <img
     src="https://res.cloudinary.com/resourcefulmind-inc/image/upload/v1714496867/v1_v8gjmv.png"
-    alt="Akeru Logo"
+    alt="Akeru Labs Logo"
     height="420"
     width="330"
   />
 </p>
 
-# Welcome to Akeru
+# Welcome to Akeru Labs
 
 ## Outline
 
 - [Our Mission](#our-mission)
-- [About Akeru](#about-akeru)
-- [Why Akeru?](#why-akeru)
-- [Key Projects](#key-projects)
-- [Roadmap](#roadmap)
-- [Contributing to Akeru](#contributing-to-akeru)
+- [About Akeru Labs](#about-akeru-labs)
+- [Why Akeru Labs?](#why-akeru-labs)
+- [Key Research Areas](#key-research-areas)
+- [Open-Source Projects](#open-source-projects)
+- [Research Roadmap](#research-roadmap)
+- [Contributing to Akeru Labs](#contributing-to-akeru-labs)
 - [Our Community](#our-community)
 - [Contact Us](#contact-us)
 - [License](#license)
@@ -24,53 +25,61 @@
 
 ## Our Mission
 
-At Akeru, we are committed to enhancing AI technology by making it more accessible, transparent, and decentralized. We strive to empower developers across the globe by providing open-source tools that enable innovation and drive progress.
+At Akeru Labs, we are dedicated to advancing the field of artificial intelligence through cutting-edge research and open-source development. Our mission is to push the boundaries of AI technology, making it more accessible, transparent, and impactful for researchers and developers worldwide.
 
-## About Akeru
+## About Akeru Labs
 
-At its core, Akeru aims to be deeply rooted in the fields of artificial intelligence and decentralized systems. Formed by a passionate collective of AI enthusiasts and blockchain advocates, our mission is clear: to harness the robust capabilities of the Akeru AI edge network, underpinned by a Bittensor Subnet, to provide transparent, secure, and reliable AI solutions. We aim to inspire and empower communities by making cutting-edge technology accessible and dependable, driving progress and fostering hope for a smarter, more connected world.
+Akeru Labs is a research-focused group born from the collaborative efforts of AI enthusiasts and innovators. We are committed to exploring the intersections of artificial intelligence, decentralized systems, and emerging technologies. By open-sourcing our applied AI research and projects, we aim to accelerate progress in the field and foster a global community of forward-thinking researchers and developers.
 
-## Why Akeru?
+## Why Akeru Labs?
 
-- **Open Source**: All our projects are open-source, inviting collaboration and fostering a community of innovation.
-- **Decentralization**: We leverage decentralized technologies to ensure that our projects are secure, transparent, and available to everyone.
-- **Community-Focused**: Akeru is committed to supporting and growing a vibrant community of developers and technologists.
+- **Cutting-Edge Research**: We focus on pushing the boundaries of AI technology through innovative research.
+- **Open Source**: All our research findings and projects are open-source, promoting transparency and collaboration.
+- **Applied AI**: We bridge the gap between theoretical research and practical applications.
+- **Decentralization**: We explore decentralized technologies to enhance the security and accessibility of AI systems.
+- **Community-Driven**: Akeru Labs thrives on community contributions and collaboration.
 
-## Key Projects
+## Key Research Areas
 
-- **[Akeru.ai](https://github.com/AkeruAI/akeru/tree/main)**: An open-source AI platform that runs on the cutting-edge Bittensor network to deliver decentralized AI services.
+- **Large Language Models**: Advancing the capabilities and efficiency of LLMs.
+- **Decentralized AI Systems**: Exploring the integration of AI with blockchain and distributed computing.
+- **Ethical AI**: Developing frameworks for responsible AI development and deployment.
+- **AI for Social Good**: Applying AI technologies to address global challenges.
 
-## Roadmap
+## Open-Source Projects
 
-Our journey is laid out with clear and strategic milestones to enhance Akeru's capabilities and reach:
+- **[Akeru.ai](https://github.com/AkeruAI/akeru/tree/main)**: An open-source AI platform leveraging decentralized networks for robust and accessible AI services.
 
-- **Launching Subnet on Testnet**: Initiating our subnet operations on a test network to ensure stability and performance before mainnet deployment.
-- **Launching Subnet on Mainnet**: Transitioning our subnet to the mainnet to bring full operational capabilities to all users.
-- **Support for Document Parsing and Retrieval**: Implementing advanced features for parsing documents and retrieving information, enhancing our platform's utility in data management and AI-driven insights.
-- **Support for LLM Function Calling**: Expanding our API to include function calling capabilities for large language models (LLMs), broadening the scope of interactions and functionalities available through Akeru.
-- **Rolling Out Miners and Validators in Europe and Asia**: Strengthening our network's global footprint by setting up miners and validators across Europe and Asia to ensure decentralized benefits and enhanced network reliability.
+## Research Roadmap
 
-These steps are designed to propel Akeru towards becoming a more robust, efficient, and globally recognized AI platform.
+Our research agenda is designed to address key challenges and opportunities in AI:
 
-## Contributing to Akeru
+- **Enhancing LLM Efficiency**: Developing techniques to reduce the computational requirements of large language models without compromising performance.
+- **Decentralized AI Infrastructure**: Creating a robust, decentralized framework for AI model training and deployment.
+- **AI Interpretability**: Advancing methods to make AI decision-making processes more transparent and understandable.
+- **Cross-Modal AI**: Exploring the integration of multiple data modalities (text, image, audio) in AI systems.
+- **AI Safety and Robustness**: Developing methodologies to ensure AI systems are safe, reliable, and resilient to adversarial attacks.
 
-We thrive on community contributions! Whether you're a coder, a designer, or a thinker, there's a place for you here.
+## Contributing to Akeru Labs
 
-- **Get Involved**: Check out our [Issues tab](https://github.com/AkeruAI/akeru/issues) to see what you can help with.
-- **Submit Pull Requests**: Review our [Contributing Guidelines](https://github.com/AkeruAI/akeru/blob/main/CONTRIBUTING.md) and make your mark.
-- **Feedback**: Your suggestions drive our growth. Don't hesitate to reach out with ideas.
+We welcome contributions from researchers, developers, and enthusiasts alike:
+
+- **Join Our Research**: Explore our [current projects](https://github.com/AkeruAI) and find areas where you can contribute.
+- **Share Your Ideas**: Propose new research directions or improvements to existing projects.
+- **Code Contributions**: Submit pull requests to our repositories, following our [Contributing Guidelines](https://github.com/AkeruAI/akeru/blob/main/CONTRIBUTING.md).
+- **Peer Review**: Help us maintain the quality of our research by participating in our peer review process.
 
 ## Our Community
 
-Join our vibrant community to get involved in discussions, share your ideas, and collaborate with others.
+Join our vibrant community of researchers and developers:
 
-- **[Discord](#)**
-
-## Contact Us
-For further inquiries, partnerships, or press information, please contact us [here](mailto:guibibeau@gmail.com).
+- **[Discord](#)**: Engage in real-time discussions and collaborations.
 
 ## License
-All Akeru projects are released under the [MIT License](https://opensource.org/license/MIT). This ensures that our software remains free and usable for all, promoting innovation and collaboration.
+
+All Akeru Labs projects and research outputs are released under the [MIT License](https://opensource.org/license/MIT), ensuring that our work remains free and open for all to use and build upon.
 
 ## How to Reach Us
-For real-time discussions and support, connect with us on [Discord](#). For professional inquiries, please use our official contact email: [here](mailto:guibibeau@gmail.com).
+
+- **Discord**: Join our [Discord community](#) for real-time discussions.
+- **GitHub**: Follow our projects and contribute on [GitHub](https://github.com/AkeruAI).
