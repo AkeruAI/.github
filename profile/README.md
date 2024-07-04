@@ -1,9 +1,9 @@
 <p align="center">
   <img
-    src="https://res.cloudinary.com/resourcefulmind-inc/image/upload/v1714496867/v1_v8gjmv.png"
+    src="https://github.com/AkeruAI/.github/blob/main/mascot.jpeg?raw=true"
     alt="Akeru Labs Logo"
-    height="420"
-    width="330"
+    height="300"
+    width="300"
   />
 </p>
 
